@@ -4,6 +4,7 @@ html {
 body{
   text-align: center;
   width: 100;
+  overflow:auto; 
 }
 h1 {
   text-align: center;
