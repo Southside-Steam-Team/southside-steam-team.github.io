@@ -1,6 +1,9 @@
 html {
   background-color: DarkGrey
 }
+body{
+  width: 100;
+}
 h1 {
   text-align: center;
   color:DarkOrange;
